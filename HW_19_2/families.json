@@ -1,0 +1,61 @@
+[ {
+  "mother" : {
+    "firstName" : "Mother 0",
+    "age" : 20
+  },
+  "father" : {
+    "firstName" : "Father 0",
+    "age" : 26
+  },
+  "children" : [ {
+    "firstName" : "ChildOne 0",
+    "age" : 4
+  }, {
+    "firstName" : "ChildTwo 0",
+    "age" : 4
+  }, {
+    "firstName" : "ChildThree 0",
+    "age" : 3
+  } ],
+  "lastName" : "Family0"
+}, {
+  "mother" : {
+    "firstName" : "Mother 1",
+    "age" : 18
+  },
+  "father" : {
+    "firstName" : "Father 1",
+    "age" : 25
+  },
+  "children" : [ {
+    "firstName" : "ChildOne 1",
+    "age" : 4
+  }, {
+    "firstName" : "ChildTwo 1",
+    "age" : 3
+  }, {
+    "firstName" : "ChildThree 1",
+    "age" : 4
+  } ],
+  "lastName" : "Family1"
+}, {
+  "mother" : {
+    "firstName" : "Mother 2",
+    "age" : 24
+  },
+  "father" : {
+    "firstName" : "Father 2",
+    "age" : 19
+  },
+  "children" : [ {
+    "firstName" : "ChildOne 2",
+    "age" : 4
+  }, {
+    "firstName" : "ChildTwo 2",
+    "age" : 4
+  }, {
+    "firstName" : "ChildThree 2",
+    "age" : 5
+  } ],
+  "lastName" : "Family2"
+} ]
